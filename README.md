@@ -2,7 +2,7 @@
 
 [![crates.io badge](https://img.shields.io/crates/v/pseudorandom)](https://crates.io/crates/pseudorandom)
 [![docs.rs badge](https://img.shields.io/docsrs/pseudorandom)](https://docs.rs/syraise/latest/pseudorandom/)
-[![compiler-club](https://6948446f806c172a098591088e0715b8258b380b.s3.us-east-005.backblazeb2.com/cc-discord-badge.png)](https://kaleidawave-public-pages.val.run/r/cc-discord)
+[![compiler-club](https://f005.backblazeb2.com/file/6948446f806c172a098591088e0715b8258b380b/join-compiler-club.svg)](https://kaleidawave-public-pages.val.run/r/cc-discord)
 
 Algorithms from <https://stackoverflow.com/questions/521295/seeding-the-random-number-generator-in-javascript>
 
